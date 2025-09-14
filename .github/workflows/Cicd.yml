@@ -1,4 +1,4 @@
-name: My 2nd GitHub Actions
+name: My 2nd GitHub Action
 
 on: [push]
 
